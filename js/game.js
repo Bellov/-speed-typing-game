@@ -70,8 +70,8 @@ const words = [
     'vociferous',
     'irregardless',
     'disinterested',
-    'lieutenant'
-
+    'lieutenant',
+    'otorhinolaryngologist',
 ];
 
 
